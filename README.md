@@ -48,4 +48,4 @@ This research was conducted purely for educational purposes. All targets were di
 
 ## Files
 
-- `report.docx` — Full security report with finding details and remediation steps
+- `Report.pdf` — Full security report with finding details and remediation steps
